@@ -4,7 +4,9 @@
 
 ## 具体说明
 M:Model 1.为UI提供数据 2.并保存UI的数据
+
 V:View 1.展示数据 2.相应相应用户的操作（click、touch等）并交给Presenter处理
+
 P:Presenter 负责逻辑控制 1.从UI层取数据、运算、转化，并有View展示 2.处理View层传过来的事件
 
 ## 关系图
